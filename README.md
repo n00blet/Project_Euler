@@ -5,3 +5,4 @@ Project_Euler
 3.Everything here is for educational purposes
 4.You can modify it to accept user input and return the results
 5.This is the link to problem set : http://projecteuler.net/problems
+6.Some algorithms are changed after looking at the improved solutions discussed in thread
